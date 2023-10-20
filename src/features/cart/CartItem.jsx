@@ -1,3 +1,6 @@
+/* eslint-disable no-unused-vars */
+/* eslint-disable no-undef */
+/* eslint-disable react/prop-types */
 function CartItem({ item }) {
   const { pizzaId, name, quantity, totalPrice } = item;
 
