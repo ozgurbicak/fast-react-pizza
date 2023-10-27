@@ -15,7 +15,7 @@ function AppLayout() {
 
       <Header />
 
-      <div className="overflow-scroll">
+      <div className="overflow-scroll ">
 
       <main className="max-w-3xl  ">
         <Outlet />
