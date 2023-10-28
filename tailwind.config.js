@@ -7,11 +7,7 @@ export default {
       sans: 'Roboto Mono, monospace',
     },
 
-
     extend: {
-      colors:{
-        pizza:"#123456",
-      },
       fontSize: {
         huge: ['80rem', { lineHeight: '1' }],
       },
